@@ -1,1 +1,1 @@
-var posts=["2022/08/26/hello-world/","2022/08/30/yuanshen/","2022/08/26/我的第一篇blog/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/05/16/JavaSE/","2022/08/26/我的第一篇blog/","2022/08/26/hello-world/","2022/08/30/yuanshen/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
