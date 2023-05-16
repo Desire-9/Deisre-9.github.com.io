@@ -1,0 +1,1 @@
+var posts=["2022/08/26/hello-world/","2022/08/30/yuanshen/","2022/08/26/我的第一篇blog/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
